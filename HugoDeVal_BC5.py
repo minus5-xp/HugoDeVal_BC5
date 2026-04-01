@@ -2,8 +2,8 @@
 # CABECERA
 # ============================================================
 # Alumno: Hugo de Val Roig
-# URL Streamlit Cloud: https://...streamlit.app
-# URL GitHub: https://github.com/...
+# URL Streamlit Cloud: https://hugodevalbc5-ezw95d6dikhzavapp4oglag.streamlit.app
+# URL GitHub: https://github.com/minus5-xp/HugoDeVal_BC5
 
 # ============================================================
 # IMPORTS
